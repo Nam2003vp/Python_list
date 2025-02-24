@@ -1,0 +1,16 @@
+1. Cho danh sách(list) friends = ["Jen" ,"Jack", "Kenny", "Bob", "Henry", "Anne"]
+Yêu cầu:
+a. Lấy ra 4 người bạn ưu tiên trong friends
+b. Lấy ra 4 người bạn cuối trong friends
+c. Đảo ngược danh sách friends
+d. Lấy ra những người bạn từ vị trí 1 đến hết
+e. Copy danh sách ban đầu thành 1 danh sách mới
+f. Lấy ra những người bạn từ vị trí 2 đến sát cuối
+
+2. Cho danh sách các sinh viên chứa thông tin cửa mỗi sinh vien[id, tên, tuổi] như sau:
+- students = [["SV001","Bob", 23],["SV002", "Kenny", 34],["SV003", "Henry", 45]]
+Yêu cầu:
+a. Lấy ra thông tin cảu sinh viên thứ nhất và in ra định dạng "ID: {id}, name: {name} - age:{age}"
+b. Lấy ra tuổi của tinh viên thứ hai
+c. Lấy ra thông tin hai sinh viên cuối cùng
+d. Lấy ra id của sinh viên thứ ba

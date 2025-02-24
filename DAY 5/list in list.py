@@ -20,7 +20,9 @@ a = [1, 3, 10, 100, 45]
 new_list = a[0:2:1] # a[start:stop:step]
 print(new_list is a)
 new_list = a[1:] #in ra list tu vi tri 1 den het
-new_list = a[1:-1] # in ra tu vi tri 1 den het
+new_list = a[1:-1] # in ra gia tri bỏ giá trị đầu và cuối
 new_list = a[:] #in ra toan bo list
 print(new_list)
+# a[::-1]: đảo ngược list (sinh ra list mới)
+
 
